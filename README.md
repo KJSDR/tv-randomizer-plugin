@@ -19,8 +19,8 @@ Chrome extension that shuffles episodes across the shows you pick. Add a few sho
 
 ## Publishing to the Chrome Web Store
 
-- [ ] Add icons (16, 48, 128 px) and list them under `icons` in `manifest.json`
-- [ ] Remove the empty `background.js` (or give it a job)
+- [x] Add icons (16, 48, 128 px) and list them under `icons` in `manifest.json`
+- [x] Remove the empty `background.js` (or give it a job)
 - [ ] Register a developer account ($5 one-time fee)
 - [ ] Take at least 1 screenshot (1280×800 or 640×400), no Netflix logos
 - [ ] Write the store listing: short description, category
