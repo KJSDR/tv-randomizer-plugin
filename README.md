@@ -21,12 +21,12 @@ Chrome extension that shuffles episodes across the shows you pick. Add a few sho
 
 - [x] Add icons (16, 48, 128 px) and list them under `icons` in `manifest.json`
 - [x] Remove the empty `background.js` (or give it a job)
-- [ ] Register a developer account ($5 one-time fee)
-- [ ] Take at least 1 screenshot (1280×800 or 640×400), no Netflix logos
-- [ ] Write the store listing: short description, category
-- [ ] Fill in the privacy section (no user data collected)
-- [ ] Zip the folder (not the `.crx`) and upload it
-- [ ] Wait for review (usually a few days)
+- [x] Register a developer account ($5 one-time fee)
+- [x] Take at least 1 screenshot (1280×800 or 640×400), no Netflix logos
+- [x] Write the store listing: short description, category
+- [x] Fill in the privacy section (no user data collected)
+- [x] Zip the folder (not the `.crx`) and upload it
+- [x] Wait for review (usually a few days)
 
 Updates: bump `version` in `manifest.json`, zip, upload. Adding a new site (e.g. Disney+) adds a host permission, so Chrome asks users to approve it again.
 

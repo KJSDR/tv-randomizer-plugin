@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "TV Randomizer",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Shuffle episodes across your chosen shows.",
   "icons": {
     "16": "icons/icon16.png",
