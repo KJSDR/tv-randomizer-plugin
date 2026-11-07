@@ -25,3 +25,7 @@ Updates: bump `version` in `manifest.json`, zip, upload. Adding a new site (e.g.
 - The jump happens near the end, so it may cut off the last bit of an episode (end scenes, post-credit bits).
 - Timing isn't exact; it checks once a second and relies on Netflix's own episode data.
 - It uses Netflix's internal player and metadata, which can change and break it without notice.
+
+## Screenshot
+
+![TV Randomizer popup with three saved shows](store/screenshot-1.jpg)
